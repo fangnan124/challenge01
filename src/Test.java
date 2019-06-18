@@ -1,0 +1,7 @@
+public class Test {
+    public static void main(String [] args) {
+        String[] strs = []
+        QueueImpl queue = new QueueImpl<String>();
+
+    }
+}
